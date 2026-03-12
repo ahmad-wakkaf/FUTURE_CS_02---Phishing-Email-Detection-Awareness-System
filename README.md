@@ -33,7 +33,6 @@ This repository contains a phishing email detection and awareness report created
 |-----------|-------------|------------|
 | sample-1001.eml | Microsoft account spoof with Russian login alert | **High** |
 | sample-1002.eml | Identical template, different Return-Path domain | **High** |
-| sample-1005.eml | Portuguese legal notice spoof with partial authentication | **Medium** |
 
 
 ## Tools Used
